@@ -1,0 +1,33 @@
+
+span {
+    cursor: pointer;
+}
+
+i {
+    cursor: pointer;
+    min-width: 30px;
+}
+
+.fa-star, .fa-trash-alt{
+    color: black;
+}
+
+.fa-star:hover {
+    color: rgb(0, 204, 0);
+}
+
+.fa-trash-alt:hover {
+    color: rgb(218, 3, 3);
+}
+
+.text-important {
+    font-weight: 500;
+    color: rgb(43, 66, 145);
+}
+
+.text-done {
+    text-decoration: line-through;
+}
+
+
+
