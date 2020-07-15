@@ -11,12 +11,12 @@ Simple React to-do list
 
 Створено за допомогою create-react-app.
 
-To start:
+## To start:
 
-Download the project files, then at the console:
+Download the project files, then at the console: 
 
-npm install or yarn install
+### `npm install` or `yarn install`, then
 
-npm start or yarn start
+### `npm start` or `yarn start`
 
 Open http://localhost:3000 to view it in the browser.
